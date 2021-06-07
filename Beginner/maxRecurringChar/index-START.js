@@ -73,3 +73,5 @@ function maxRecurringChar(text){
 }
 
 module.exports = maxRecurringChar;
+
+
