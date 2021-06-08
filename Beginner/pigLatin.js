@@ -28,3 +28,8 @@ function pigLatin(str){
 // }
 
 pigLatin('happy birthday')
+
+
+//split an array into individual words
+//pig latin those words
+//return an array with the pig latin words
